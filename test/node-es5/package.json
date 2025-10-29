@@ -6,6 +6,6 @@
     "test": "node index.js"
   },
   "dependencies": {
-    "psl": "file:../../dist/psl.es5.cjs"
+    "psl": "../../"
   }
 }
